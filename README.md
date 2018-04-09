@@ -20,6 +20,7 @@
     3. [Problemas a resolver para el usuario](#problemas)
 5. [Planeación](#planeacion)
 
+
 ## <a name="herramientas"></a> Herramientas utilizadas:
 - Api de Mercado Libre para desplegar productos
 - Api de PayPal como forma de pago
