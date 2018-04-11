@@ -2,7 +2,7 @@
 
 ### Vista previa 
 
-<img src=assets/img/screencapture.png>
+![screencapture](https://user-images.githubusercontent.com/32856416/38595530-faed0e30-3d11-11e8-878a-67c9a39c2b91.png)
 
 ### V1.0.0
 
