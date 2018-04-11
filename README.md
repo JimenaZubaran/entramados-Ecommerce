@@ -1,4 +1,4 @@
-# ENTRAMADOS e-comerce 
+# ENTRAMADOS e-commerce 
 
 ### Vista previa 
 
