@@ -4,6 +4,8 @@ Vista previa
 
 ![screencapture](https://user-images.githubusercontent.com/32856416/38595530-faed0e30-3d11-11e8-878a-67c9a39c2b91.png)
 
+### Desarrollado para [Laboratoria](http://laboratoria.la) 
+
 ### V1.0.0
 
 <img src=assets/img/logo-entramados.jpg>
@@ -142,6 +144,8 @@ Se tiene una retrospectiva y feedback diarios para ver lista de actividades que 
 	## <a name="sketching"></a> Presentación ##
 	https://docs.google.com/presentation/d/1vcHdZ98FJUwKXecc59nS1Ty4rDqQy4sRnjPUItmau-g/edit?ts=5aa89972#slide=id.p
 
+
+# Entramados e-commerce 
 --------------
 Strongly Typed by HTML5 UP
 html5up.net | @ajlkn
